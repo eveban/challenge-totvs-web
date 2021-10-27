@@ -24,7 +24,7 @@ import {
 
 const columns = [
   // { field: 'id', headerName: 'ID', width: 200 },
-  { field: 'nome', headerName: 'Nome', width: 300 },
+  { field: 'nome', headerName: 'Nome do cliente', width: 300 },
   { field: 'valor', headerName: 'Valor', width: 240 },
   { field: 'desde', headerName: 'Desde', width: 240 },
 ];
