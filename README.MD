@@ -79,9 +79,8 @@ $ yarn dev
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Server** ([NodeJS](https://nodejs.org/en/))
+**WEB** ([React](https://pt-br.reactjs.org/))
 
-- **[React](https://pt-br.reactjs.org/)**
 - **[Material-UI](https://mui.com/pt/)**
 - **[Moment](https://momentjs.com/)**
 - **[Styled-Components](https://styled-components.com/)**
